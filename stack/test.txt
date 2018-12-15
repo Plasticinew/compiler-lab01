@@ -1,0 +1,5 @@
+int (**ptr[20])[30]; 
+int (*f(int i,int *j))[20]; 
+int * fa(int i)[20];
+int af[20](int k);
+int *ffa(),ffb[20],(*ffc)[30];
